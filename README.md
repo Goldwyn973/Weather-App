@@ -5,4 +5,4 @@ You have to allow the access to your location as the dialog box pops up. It feed
 
 <b>Technologies Used:</b> HTML, CSS, JavaScript, API linking, OpenWeatherMap API.
 
-<b>Deployed Site: https://weather-app-akshat-porwal.netlify.app/</b>
+<b>Deployed Site: https://goldwyn973.github.io/Weather-App/</b>
